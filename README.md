@@ -23,7 +23,7 @@
 
 ---
 
-# Windows Server & Active Directory Lab
+# Server & Storage Administration 
 
 This repository documents my hands-on learning and practical implementation
 of **Windows Server administration, Active Directory, Group Policy, storage,
@@ -92,57 +92,8 @@ moves into enterprise infrastructure concepts such as:
 - User Configuration
 - Desktop Management
 
+
 ---
-
-# Learning Objectives
-
-The main objectives of this project are to develop practical experience with:
-
-### Windows Server
-
-- Windows Server installation
-- Server configuration
-- Server roles and features
-- File and storage management
-
-### Active Directory
-
-- Domain Controller deployment
-- AD DS configuration
-- User management
-- Group management
-- Organizational structure
-- Delegation
-
-### Group Policy
-
-- GPO creation
-- User configuration
-- Computer configuration
-- Loopback processing
-- Screen saver policies
-- Desktop configuration
-
-### Storage
-
-- RAID configurations
-- Storage Pools
-- Volumes
-- File shares
-- Disk quotas
-- File screening
-
-### Security
-
-- Least privilege
-- Access control
-- Delegation
-- Centralized policy enforcement
-- Account management
-- Infrastructure hardening
-
-----
-
 
 
 <h2 align="center"> Repository Structure </h2>
