@@ -1,3 +1,10 @@
+
+
+<img width="1024" height="800" alt="Server" src="https://github.com/user-attachments/assets/e8d26e48-976b-4a9b-b4b8-154eb01a7d91" />
+
+
+
+
 <h1 align="center"> Server & Storage Administration </h1>
 
 <p align="center">
