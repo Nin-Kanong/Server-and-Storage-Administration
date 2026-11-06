@@ -145,8 +145,9 @@ The main objectives of this project are to develop practical experience with:
 
 
 
+<h2 align="center"> Repository Structure </h2>
 
-Repository Structure
+
 ````console
 Server-and-Storage-Administration/
 │
