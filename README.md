@@ -1,4 +1,4 @@
-<h1 align="center"> Windows Server & Active Directory Lab </h1>
+<h1 align="center"> Server & Storage Administration </h1>
 
 <p align="center">
   <b>Windows Server Administration • Active Directory • Group Policy • Storage • Infrastructure Security</b>
@@ -141,51 +141,54 @@ The main objectives of this project are to develop practical experience with:
 - Account management
 - Infrastructure hardening
 
----
-
-# Lab Environment
-
-| Component | Purpose |
-|---|---|
-| Windows Server | Server infrastructure |
-| Active Directory Domain Services | Identity and domain management |
-| Domain Controller | Authentication and centralized management |
-| Group Policy | Centralized configuration |
-| File Services | File sharing and storage |
-| Storage Pool | Storage management |
-| RAID | Storage resiliency |
-| Windows Client | Domain-joined endpoint |
-| PowerShell | Administration and automation |
-| Virtual Machine | Isolated laboratory environment |
-
 ----
 
 
 
 
+Repository Structure
+````console
+Server-and-Storage-Administration/
+│
+├── 01. Introduction/
+│
+├── 02. Setup Environments/
+│
+├── 03. Active Directory Domain Services (AD DS)/
+│
+├── 04. DNS Server/
+│
+├── 05. File Server and File Services/
+│
+├── 06. Storage Management/
+│
+├── 07. Manage User Account and Delegate Control on AD DS/
+│
+├── 08. Advanced Storage and RAID Management/
+│
+├── 09. Group Policy Management (GPO)/
+````
+
+---
+
+
+<div align="center">
+
+## AUTHOR: Nin Kanong - k4n0ng
+
+**Server Administration** | **Storage Management** | **Network Engineering** | **Infrastructure Security**
+
+</div>
 
 
 
 
 
+---
+
+<div align="center"> Hands-on Learning • Practical Implementation • Technical Documentation • Build Future as Server Engineer </div>
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+---
